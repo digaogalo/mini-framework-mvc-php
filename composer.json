@@ -1,0 +1,15 @@
+{
+    "name": "digao/mini-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rodrigo Carvalho",
+            "email": "digaolimac@gmail.com"
+        }
+    ],
+    "require": {}
+}
